@@ -1,5 +1,5 @@
 
-# Ecommerce (Monorepo)
+# E-Commerce Platform with AI Integration
  A full‑stack e-commerce platform that demonstrates a complete online store flow.
 It includes an Express.js API backend, a Vite + React customer-facing storefront, and a Vite-powered admin dashboard.
 Key features: product catalog and detail pages, user authentication, shopping cart, Razorpay checkout and server-side payment verification, order management, product reviews, and an AI-assisted product search endpoint.
