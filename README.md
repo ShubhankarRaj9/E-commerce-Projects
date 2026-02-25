@@ -1,4 +1,4 @@
-##🛒 E-Commerce Platform with AI Integration
+🛒 E-Commerce Platform with AI Integration
 
 🔗 Live Frontend: https://e-commerce-projects-5dk6.vercel.app/
 
